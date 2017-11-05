@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Rikkeisoft_BroadcastReceiver_A</string>
+    <string name="tv_message_label">Message:</string>
+</resources>
